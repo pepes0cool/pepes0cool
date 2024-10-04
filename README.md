@@ -36,7 +36,6 @@ I'm currently a third-year undergraduate at HCM University of Technology and am 
 
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=phucmap10&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucmap10&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
