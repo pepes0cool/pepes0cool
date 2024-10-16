@@ -33,12 +33,3 @@ I'm currently a third-year undergraduate at HCM University of Technology and am 
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![GPT](https://img.shields.io/badge/GPT-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 [![PromptGen](https://img.shields.io/badge/Prompt%20Generator-Tool-green?style=for-the-badge)](https://neuralwriter.com/prompt-tool/)
-
-
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucmap10&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=phucmap10&color=blue)
