@@ -25,6 +25,7 @@ I'm currently a third-year undergraduate at HCM University of Technology and am 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 #### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -36,3 +37,4 @@ I'm currently a third-year undergraduate at HCM University of Technology and am 
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![GPT](https://img.shields.io/badge/GPT-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 [![PromptGen](https://img.shields.io/badge/Prompt%20Generator-Tool-green?style=for-the-badge)](https://neuralwriter.com/prompt-tool/)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
