@@ -10,6 +10,6 @@ I'm a passionate Software Developer with a love for web app development. I'm als
 
 I'm currently a final-year undergraduate at HCM University of Technology and am nearing graduation. My aim is to sharpen my skills in developing programs (currently I'm learning about web development) and to work in Data/AI if I have the chance.
 
-- 📫 How to reach me: My school email is phuc.nguyencsek22@hcmut.edu.vn / Outside mail: kaizx8@gmail.com
+- 📫 How to reach me: My school email is phuc.nguyencsek22@hcmut.edu.vn / Outside mail: phuc.nguyen.cswork@gmail.com
 - ⚡ Fun fact: I really like basketball, and it's my second passion!
 
